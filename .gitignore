@@ -1,0 +1,13 @@
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# SBT
+target/
+project/target/
+lib_managed/
+src_managed/
+
+# OS
+*.DS_Store
